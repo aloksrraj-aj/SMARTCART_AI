@@ -94,7 +94,7 @@ function Signup() {
 
                 <p>
 
-                    Join Digilocal and compare grocery prices easily.
+                    Join SmartCart AI and compare grocery prices easily.
 
                 </p>
 
