@@ -15,3 +15,6 @@ dist/
 
 # Local files
 .DS_Store
+
+# Private token test file
+backend/test_token.py
