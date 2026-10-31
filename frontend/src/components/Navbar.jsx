@@ -59,7 +59,7 @@ function Navbar() {
                             color: "white",
                         }}
                     >
-                        Digilocal
+                        SmartCart AI
                     </h2>
 
                     <small
