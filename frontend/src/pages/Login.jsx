@@ -68,7 +68,7 @@ function Login() {
                     🛒
                 </div>
 
-                <h1>Digilocal</h1>
+                <h1>SmartCart AI</h1>
 
                 <p>
                     Compare Grocery Prices
