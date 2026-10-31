@@ -165,7 +165,7 @@ function Home() {
                             marginBottom: "15px"
                         }}
                     >
-                        🛒 Digilocal Grocery Comparison
+                        🛒 SmartCart AI — Grocery Price Comparison
                     </h1>
 
                     <p
