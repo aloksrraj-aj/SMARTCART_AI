@@ -1,4 +1,4 @@
-# 🛒 Digilocal
+# 🛒 SmartCart AI
 
 An AI-powered Grocery Price Comparison Platform built using **React**, **FastAPI**, and **PostgreSQL**.
 
@@ -6,7 +6,7 @@ An AI-powered Grocery Price Comparison Platform built using **React**, **FastAPI
 
 ## 📖 Overview
 
-Digilocal helps users compare grocery prices across multiple stores so they can find the best deals before purchasing.
+SmartCart AI helps users compare grocery prices across multiple stores so they can find the best deals before purchasing.
 
 Users can:
 
@@ -58,8 +58,8 @@ Users can:
 
 ## 📂 Project Structure
 
-```
-Digilocal
+```text
+SmartCart AI
 │
 ├── backend
 │   ├── app
